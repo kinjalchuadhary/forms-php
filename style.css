@@ -1,0 +1,58 @@
+body{background-color: #F0F8FF;}
+
+
+h1{color: #008B8B; text-align: center;font-size: larger;font-family:TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;}
+
+p{color: black ;text-align: center;font-size: small;font-family: Verdana, Geneva, sans-serif; color: red}
+
+
+
+
+input[type=text], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=email], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=password], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit] {
+     background-color: #0000FF;
+     border: none;
+     color: white;
+     padding: 12px 32px;
+     text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+       margin: 4px 2px;
+       cursor: pointer;
+        width:100px;
+        margin-left:auto;
+        margin-right:auto;
+  justify-content: center;
+  display: flex;
+}
+
+    
